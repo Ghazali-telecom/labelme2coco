@@ -1,3 +1,3 @@
 import numpy as np 
 
-print(f'salam{np.random.randint(100)}')python
+print(f'salam{np.random.randint(100)}')
